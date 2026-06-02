@@ -1,10 +1,5 @@
 # Netflix-SQL-project
 A SQL-based data analysis project on Netflix content that explores movies and TV shows to uncover insights about genres, ratings, countries, actors, directors, and content trends using advanced SQL techniques such as CTEs, window functions, and string manipulation.
-# 🎬 Netflix SQL Data Analysis Project
-
-## 📌 Overview
-This project is an end-to-end **SQL data analysis case study** on a Netflix dataset.  
-It explores Netflix’s catalog of movies and TV shows to extract meaningful business insights such as content distribution, trends, ratings, genres, countries, actors, and directors.
 
 The project demonstrates **real-world SQL skills** including data cleaning, ETL structure, exploratory analysis, aggregation, window functions, and string manipulation.
 
