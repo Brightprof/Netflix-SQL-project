@@ -20,21 +20,24 @@ The project demonstrates **real-world SQL skills** including data cleaning, ETL 
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
+
+```
 Netflix-SQL-Project/
 │
 ├── dataset/
-│ └── netflix_titles.csv
+│   └── netflix_titles.csv
 │
 ├── sql_queries/
-│ ├── 01_data_cleaning.sql
-│ ├── 02_table_creation.sql
-│ ├── 03_business_analysis.sql
+│   ├── 01_data_cleaning.sql
+│   ├── 02_table_creation.sql
+│   ├── 03_business_analysis.sql
 │
 ├── screenshots/
-│ └── analysis_outputs.png
+│   └── analysis_outputs.png
 │
 └── README.md
+```
 
 
 ---
@@ -94,7 +97,6 @@ The following analytical questions were solved using SQL:
 - The United States leads in total content production  
 - Drama and Documentary are the most dominant genres  
 - Netflix content has grown significantly in recent years  
-- A small group of actors dominate movie appearances in India  
 - Most Netflix content falls under the “Good” category based on description analysis  
 
 ---
